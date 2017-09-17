@@ -5,7 +5,10 @@ var domains = [
 "cip.cc",
 "ipip.net",
 "ip138.com",
-"ip.cn"
+"ip.cn",
+"95599.cn",
+"abchina.com",
+"icbc.com.cn"
 ];
 
 var proxyAcc = {};
