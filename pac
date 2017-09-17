@@ -4,7 +4,8 @@ var httpProxy = 'PROXY 127.0.0.1:7777';
 var domains = [
 "cip.cc",
 "ipip.net",
-"ip138.com"
+"ip138.com",
+"ip.cn"
 ];
 
 var proxyAcc = {};
