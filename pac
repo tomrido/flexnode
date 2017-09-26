@@ -8,7 +8,8 @@ var domains = [
 "ip.cn",
 "95599.cn",
 "abchina.com",
-"icbc.com.cn"
+"icbc.com.cn",
+"music.163.com"
 ];
 
 var proxyAcc = {};
